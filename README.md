@@ -1,6 +1,6 @@
 # halium-boot
 
-bootimg generator for Halium ports 
+updated boot generator that adds full systemd support and some kali-linux functionality for use with kali-linux-touch
 
 ## Build
 
