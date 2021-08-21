@@ -1,11 +1,11 @@
-# Kali-boot
+# halium-boot
 
 bootimg generator for Halium ports 
 
 ## Build
 
 ```
-mka kali-boot
+mka halium-boot
 ```
 
 ### Build with a local initramfs
